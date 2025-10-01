@@ -1,0 +1,26 @@
+id,Quarter ,Customer Service Standards,Priority,Route,Leave Type,Total Applications Received,Application Received SLA Not Started,Total Applications Rejected ,Non straightforward Applications Received ,Straightforward Applications Received ,"Of those Straightforward Applications received, the number completed within Service Standard","Of those Straightforward Applications received, the percentage completed within Service Standard"
+1,2019 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,2432,19,1,733,1680,1555,0.9255952380952381
+2,2019 Q3,Next Working Day,Super Priority,HR/Complex Case,LTR,3149,32,0,677,2440,2249,0.9217213114754098
+3,2019 Q4,Next Working Day,Super Priority,HR/Complex Case,LTR,3089,12,0,675,2402,2232,0.929225645295587
+4,2020 Q1,Next Working Day,Super Priority,HR/Complex Case,LTR,3435,77,1,777,2581,2335,0.9046881053855095
+5,2020 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,4,0,0,4,0,0,0
+6,2020 Q3,Next Working Day,Super Priority,HR/Complex Case,LTR,15,0,0,14,1,1,1
+7,2020 Q4,Next Working Day,Super Priority,HR/Complex Case,LTR,26,0,0,26,0,0,0
+8,2021 Q1,Next Working Day,Super Priority,HR/Complex Case,LTR,34,0,0,7,27,24,0.8888888888888888
+9,2021 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,2921,21,1,513,2387,2311,0.9681608713866778
+10,2021 Q3,Next Working Day,Super Priority,HR/Complex Case,LTR,3821,34,2,668,3119,2956,0.9477396601474831
+11,2021 Q4,Next Working Day,Super Priority,HR/Complex Case,LTR,4782,53,11,824,3905,3801,0.9733674775928297
+12,2022 Q1,Next Working Day,Super Priority,HR/Complex Case,LTR,5770,29,4,1179,4562,4345,0.9524331433581762
+13,2022 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,5332,30,5,1033,4269,4084,0.9566643241977044
+14,2022 Q3,Next Working Day,Super Priority,HR/Complex Case,LTR,5636,26,6,1163,4447,4166,0.9368113334832472
+15,2022 Q4,Next Working Day,Super Priority,HR/Complex Case,LTR,4033,25,1,1158,2850,2552,0.895438596491228
+16,2023 Q1,Next Working Day,Super Priority,HR/Complex Case,LTR,4510,28,4,1464,3018,2653,0.8790589794565937
+17,2023 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,5538,30,2,1838,3670,3375,0.9196185286103542
+18,2023 Q3,Next Working Day,Super Priority,HR/Complex Case,LTR,5219,66,5,2164,2989,2736,0.915356306457009
+19,2023 Q4,Next Working Day,Super Priority,HR/Complex Case,LTR,5095,74,4,1663,3358,3117,0.9282310899344848
+20,2024 Q1,Next Working Day,Super Priority,HR/Complex Case,LTR,4994,132,8,1344,3518,3255,0.9252416145537237
+21,2024 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,4932,57,1,1179,3696,3351,0.9066558441558441
+22,2024 Q3,Next Working Day,Super Priority,HR/Complex Case,LTR,5481,81,5,1104,4296,3700,0.861266294227188
+23,2024 Q4,Next Working Day,Super Priority,HR/Complex Case,LTR,5414,93,1,1051,4270,3643,0.8531615925058548
+24,2025 Q1,Next Working Day,Super Priority,HR/Complex Case,LTR,5259,573,0,937,3749,3163,0.8436916511069619
+25,2025 Q2,Next Working Day,Super Priority,HR/Complex Case,LTR,4458,62,2,689,3707,3126,0.8432694901537632
