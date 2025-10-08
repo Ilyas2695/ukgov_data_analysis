@@ -6,3 +6,5 @@ jupyter
 scikit-learn
 openpyxl
 plotly
+prophet
+statsmodels
